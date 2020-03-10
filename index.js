@@ -9,10 +9,10 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(time){
-  t = time.split(":")
-  h = parseInt(t[0])
-  m = parseInt(t[1])
-  if h
+  let t = time.split(":")
+  let h = parseInt(t[0])
+  let m = parseInt(t[1])
+  
   // console.log(t)
   // console.log(h)
   // console.log(m)
