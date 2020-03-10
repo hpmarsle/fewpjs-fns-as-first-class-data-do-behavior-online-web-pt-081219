@@ -18,4 +18,5 @@ function greet(time){
   
 }
 
+greet("12:23")
 /* Write your implementation of displayMessage() */
