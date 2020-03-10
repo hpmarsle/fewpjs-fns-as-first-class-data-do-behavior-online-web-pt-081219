@@ -13,9 +13,9 @@ function greet(time){
   let h = parseInt(t[0])
   let m = parseInt(t[1])
   
-  if (h < 12)
+  if (h < 12){
     return "Good Morning"
-  else if (h >= 12) && (h < 17)
+  } else if (h >= 12) && (h < 17)
   
 }
 
