@@ -9,7 +9,10 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(time){
-  if time.split(":")
+  t = time.split(":")
+  h = parseInt(t[0])
+  m = parseInt(t[1])
+  // if
 }
 
 /* Write your implementation of displayMessage() */
