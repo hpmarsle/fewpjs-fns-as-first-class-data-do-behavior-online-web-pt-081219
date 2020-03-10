@@ -26,5 +26,5 @@ function greet(time){
 /* Write your implementation of displayMessage() */
 function displayMessage(greetingText){
   let gNode = document.getElementById("greeting")
-  gNode.innertext = greetingText
+  gNode.innerText = greetingText
 }
