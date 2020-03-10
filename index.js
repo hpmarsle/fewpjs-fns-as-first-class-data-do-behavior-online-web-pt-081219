@@ -12,7 +12,7 @@ function greet(time){
   t = time.split(":")
   h = parseInt(t[0])
   m = parseInt(t[1])
-
+  if h
   // console.log(t)
   // console.log(h)
   // console.log(m)
